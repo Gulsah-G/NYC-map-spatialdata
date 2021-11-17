@@ -1,8 +1,8 @@
 # NYC School Districts - Chronic Absenteeism Heatmap
 
-R script to create a heatmap using GeoJSON spatial data to demonstrate the chronic absenteeism in NYC school districts.
+R script to demonstrate creating a heatmap using GeoJSON spatial data employing data on chronic absenteeism from NYC Department of Education.
 
-Downloding json files from web links are also exemplified.
+Downloding json files from web links is also exemplified.
 
 Links to the source data files used in the script:
 
